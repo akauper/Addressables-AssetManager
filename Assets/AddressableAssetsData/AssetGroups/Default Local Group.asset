@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ed4614bccc9ddb5429e3919f7e21fbb2
+  m_SerializeEntries:
+  - m_GUID: 0c008ee3ee72a4362a35be25fa5de043
+    m_Address: Audio/DM-CGS-15.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 19f89c6e740e7447f9e12a8310d3e973
+    m_Address: Audio/DM-CGS-03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 2c5292ba5cf254919a6b9e2b18e04f49
+    m_Address: Audio/DM-CGS-07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 724131bc8a7f34041bb9f1701f0cb58d
+    m_Address: Audio/DM-CGS-16.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 96730f8640590934eacb6f860058e7f9
+    m_Address: Prefabs/PlasmaExplosionEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: acf39d9f4addf294d93fa56fa373961b
+    m_Address: Prefabs/BigExplosionEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: b99da9a57308d4ba1bee1cf1d9038376
+    m_Address: Audio/DM-CGS-05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: d8d04c6f80a1140db85ede568dab1f51
+    m_Address: Audio/DM-CGS-22.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: dc6614beca09347ec9b258f12d154bdd
+    m_Address: Audio/DM-CGS-02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: ffb159a21c8a04135a5616979c828fab
+    m_Address: Audio/DM-CGS-21.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aa4391411cbabe64fbf408ad61322b63, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: af0d1069bb663634291e690fad636fa5, type: 2}
+    - {fileID: 11400000, guid: 4c7e46f5d2f7ac044be62a0ef22d793c, type: 2}

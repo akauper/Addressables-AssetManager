@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a394731ed4783124aae72e0caf7d55e8, type: 3}
+  m_Name: Data Container
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - m_AssetGUID: ffb159a21c8a04135a5616979c828fab
+    m_SubObjectName: 
+  - m_AssetGUID: 0c008ee3ee72a4362a35be25fa5de043
+    m_SubObjectName: 
+  - m_AssetGUID: b99da9a57308d4ba1bee1cf1d9038376
+    m_SubObjectName: 
+  - m_AssetGUID: 2c5292ba5cf254919a6b9e2b18e04f49
+    m_SubObjectName: 
+  - m_AssetGUID: 724131bc8a7f34041bb9f1701f0cb58d
+    m_SubObjectName: 
+  - m_AssetGUID: 19f89c6e740e7447f9e12a8310d3e973
+    m_SubObjectName: 
+  - m_AssetGUID: dc6614beca09347ec9b258f12d154bdd
+    m_SubObjectName: 
+  - m_AssetGUID: d8d04c6f80a1140db85ede568dab1f51
+    m_SubObjectName: 
+  _particleSystems:
+  - m_AssetGUID: 96730f8640590934eacb6f860058e7f9
+    m_SubObjectName: 
+  - m_AssetGUID: acf39d9f4addf294d93fa56fa373961b
+    m_SubObjectName: 
