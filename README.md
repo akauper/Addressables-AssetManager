@@ -1,13 +1,14 @@
 # Addressables-AssetManager
 Pre-loading, Synchronicity, and Pooling for Unity Addressables
 
-
 This project attempts to extend the Unity Addressables system for other common use cases.
+
 The main file to look at is AssetManager.cs
 
 ## Getting Started
 
 Open the project in Unity 2019.3. Alternatively, copy the Assets/Asset Manager folder into your project
+
 Requires Addressable 1.5.0
 
 ## Use Cases
