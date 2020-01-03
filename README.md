@@ -8,6 +8,7 @@ The main file to look at is AssetManager.cs
 ## Getting Started
 
 Open the project in Unity 2019.3. Alternatively, copy the Assets/Asset Manager folder into your project
+Requires Addressable 1.5.0
 
 ## Use Cases
 * Track loaded/unloaded assets.
