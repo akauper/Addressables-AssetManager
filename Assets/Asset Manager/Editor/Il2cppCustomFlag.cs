@@ -14,6 +14,6 @@ public class Il2cppCustomFlag : IPreprocessBuildWithReport
         {
             PlayerSettings.SetAdditionalIl2CppArgs("--maximum-recursive-generic-depth=50");
         }
-    }
 #endif
+    }
 }
